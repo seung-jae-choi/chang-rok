@@ -42,9 +42,9 @@ int solv() {
 		for (int i = 1; i <= n; i++) 
 			for (int j = 1; j <= n; j++) {
 				if (i == k || j == k) continue;
-				if (d[i][j] == d[i][k] + d[k][j])
+				if (d[i][j] == d[i][k] + d[k][j]) // k를 거쳐 가는것이 최소 경로.
 					w[i][j] = 0;
-				if (d[i][j] > d[i][k] + d[k][j]) // 불가능
+				if (d[i][j] > d[i][k] + d[k][j]) // 최소인 d[i][j]보다 더 작은 경로 존재시 불가능.
 					return -1;
 			}
 	ans = calc();
