@@ -1,3 +1,4 @@
+//효율성 x
 #include <string>
 #include <vector>
 #include<algorithm>
