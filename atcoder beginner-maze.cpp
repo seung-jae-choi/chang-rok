@@ -27,7 +27,7 @@ int solv(int idx1,int idx2) {
 		for (int i = 0; i < 4; i++) {
 			int ny = r + dy[i];
 			int nx = c + dx[i];
-			if (0 <= ny && ny < h && 0 <= nx < w 
+			if (0 <= ny && ny < h && 0 <= nx && nx < w 
 				&& cache[ny][nx]==0 && (ny!=idx1||nx!=idx2)) {
 				if (m[ny][nx] == '.') {
 					path.push(mp(ny,nx));
