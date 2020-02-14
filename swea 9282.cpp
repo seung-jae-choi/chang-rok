@@ -1,4 +1,4 @@
-//testcase 21/22맞음. 하나 시간초과
+//testcase 21/22맞음. 하나 시간초과 
 #include<iostream>
 #include<cstring>
 #include<algorithm>
