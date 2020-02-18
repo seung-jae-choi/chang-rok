@@ -3,3 +3,6 @@
 
 *swea 9282
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW9j-qfacIEDFAUY&categoryId=AW9j-qfacIEDFAUY&categoryType=CODE
+
+&swea 1983
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PwGK6AcIDFAUq
