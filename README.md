@@ -9,3 +9,6 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5
 
 *swea 1976
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PttaaAZIDFAUq&categoryId=AV5PttaaAZIDFAUq&categoryType=CODE
+
+*swea 1974
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq&categoryId=AV5Psz16AYEDFAUq&categoryType=CODE
