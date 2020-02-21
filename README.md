@@ -12,3 +12,7 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5
 
 *swea 1974
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq&categoryId=AV5Psz16AYEDFAUq&categoryType=CODE
+
+*swea 1970
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PsIl6AXIDFAUq&categoryId=AV5PsIl6AXIDFAUq&categoryType=CODE
+
