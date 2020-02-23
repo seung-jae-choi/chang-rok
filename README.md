@@ -27,3 +27,6 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW2
 
 *swea 7985
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWu1JmN6Js4DFASy
+
+*swea 7964
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy&categoryId=AWuSgKpqmooDFASy&categoryType=CODE
