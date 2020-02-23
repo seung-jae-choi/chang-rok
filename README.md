@@ -30,3 +30,6 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWu
 
 *swea 7964
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy&categoryId=AWuSgKpqmooDFASy&categoryType=CODE
+
+*swea 7853
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWttUKkq5hQDFASy
