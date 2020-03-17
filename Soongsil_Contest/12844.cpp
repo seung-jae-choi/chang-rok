@@ -24,7 +24,7 @@ int toTencomplement(string s) {
 		
 		tmp += (s[i]-'0') * p;
 		p *= 2;
-	}
+	} 
 	return tmp;
 }
 
