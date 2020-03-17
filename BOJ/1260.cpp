@@ -23,7 +23,7 @@ void bfs() {
 			flag[x] = true;
 			for (int i = 1; i <= n; i++) {
 				if (map[x][i] == true) b.push(i);
-			}
+			} 
 		}
 	}
 }
