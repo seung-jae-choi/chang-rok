@@ -11,12 +11,13 @@ using namespace std;
 
 #define mod 1000000007
 
-int d;
+long long d;
 bool map[9][9];
 
 long long dp[100001][9];
 
 //dp[n][~] = dp[n-1][~](갯수있는만큼)에서 이동할수 있는 곳.
+
 
 void initialize() {
 	map[1][2] = true; map[1][8] = true; 
@@ -35,7 +36,7 @@ int main()
 	cin >> d;
 	memset(dp, 0, sizeof(dp));
 	dp[0][1] = 1;
-	for (int i = 0; i <= d-1; i++) {
+	for (long long i = 0; i <= d-1; i++) {
 		for (int j = 1; j <= 8; j++) {
 			if (dp[i][j]) {
 				for (int k = 1; k <= 8; k++) {
@@ -45,9 +46,9 @@ int main()
 		}
 	}
 	long long ans;
-	for (int i = 1; i <= 8; i++) {
-		ans = (dp[d - 1][2] + dp[d - 1][8])%mod;
-	}
+	
+	ans = (dp[d - 1][2] + dp[d - 1][8])%mod;
+	
 	cout << ans;
 
 	return 0;
