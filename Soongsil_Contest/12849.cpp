@@ -17,7 +17,7 @@ bool map[9][9];
 long long dp[100001][9];
 
 //dp[n][~] = dp[n-1][~](갯수있는만큼)에서 이동할수 있는 곳.
-
+ 
 
 void initialize() {
 	map[1][2] = true; map[1][8] = true; 
