@@ -8,8 +8,8 @@
 3. state -> (state+1) % 3
 ```
 
-**영우와 ‘갓4’** - [백준14679]https://www.acmicpc.net/problem/14679)
+**영우와 ‘갓4’** - [백준14679](https://www.acmicpc.net/problem/14679)
 ```
 1. Ak,Dk,Hk 계산 부분은 반복되므로 각각 최대 100,3,1000번만 계산하면 됨.
-2. a^n을 계산시 이분분할 알고리즘을 이용하여 복잡도 간단하게 해결.
+2. a^n을 계산시 이분분할 알고리즘을 이용하여 복잡도 간단하게 해결. [참조](https://onsil-thegreenhouse.github.io/programming/problem/2018/03/29/problem_math_power/)
 ```
