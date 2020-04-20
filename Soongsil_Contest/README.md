@@ -28,5 +28,10 @@
 
 ```
 
+**PLAYERJINAH’S BOTTLEGROUNDS** - [백준15803](https://www.acmicpc.net/problem/15803)
+```
+1. 3명의 좌표를 입력받아서 기울기가 같은지 확인하면 되는 문제
+```
+
 **참조** 
 - [영우와 '갓4'](https://onsil-thegreenhouse.github.io/programming/problem/2018/03/29/problem_math_power/)
