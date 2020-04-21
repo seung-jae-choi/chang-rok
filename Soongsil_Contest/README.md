@@ -33,5 +33,12 @@
 1. 3명의 좌표를 입력받아서 기울기가 같은지 확인하면 되는 문제
 ```
 
+**저거 못 타면 지각이야!!** - [백준15804](https://www.acmicpc.net/problem/15804)
+```
+1. deque를 활용한 단순구현 문제.
+2. 도착시간과 정차시간을 더한 시간이 현재시간(i)보다 작으면 deque에서 빼준다.
+3. deque가 비어있거나 마지막 요소의 pos가 n보다 작으면 push_back (but, 현재시간(i)이 도착시간보다 크거나 같아야 한다.)
+```
+
 **참조** 
 - [영우와 '갓4'](https://onsil-thegreenhouse.github.io/programming/problem/2018/03/29/problem_math_power/)
