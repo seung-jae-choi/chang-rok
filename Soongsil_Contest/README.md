@@ -52,5 +52,13 @@
 2. 겹치는 부분이 queue에 들어가므로 그 부분은 조건을 추가하여 진행.
 ```
 
+**\*빛\*영\*우\*** - 백준[15807](https://www.acmicpc.net/problem/15807)
+```
+1. dp문제
+2. light에 대해 입력을 받아서 경계선 부분에 대해 dp를 누적해 간다.
+2-1. light의 왼쪽선은 dp[0], 오른쪽선은 dp[1]
+3. 최종적으로 주어진 좌표를 점검할때, x축의 index를 증가시키면서 경계선 부분에 계산을 진행해 나간다.
+```
+
 **참조** 
 - [영우와 '갓4'](https://onsil-thegreenhouse.github.io/programming/problem/2018/03/29/problem_math_power/)
