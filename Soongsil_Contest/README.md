@@ -46,5 +46,11 @@
 2.새로 방문한 도시는 바로 전의 입력이 부모도시가 된다.
 ```
 
+**영우의 기숙사 청소** - 백준[15806](https://www.acmicpc.net/problem/15806)
+```
+1. bfs진행
+2. 겹치는 부분이 queue에 들어가므로 그 부분은 조건을 추가하여 진행.
+```
+
 **참조** 
 - [영우와 '갓4'](https://onsil-thegreenhouse.github.io/programming/problem/2018/03/29/problem_math_power/)
