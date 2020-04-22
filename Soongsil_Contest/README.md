@@ -40,5 +40,11 @@
 3. deque가 비어있거나 마지막 요소의 pos가 n보다 작으면 push_back (but, 현재시간(i)이 도착시간보다 크거나 같아야 한다.)
 ```
 
+**트리 나라 관광 가이드** - [백준15805](https://www.acmicpc.net/problem/15805)
+```
+1.flag를 설정해두고 방문한 도시는 true로 바꾼다.
+2.새로 방문한 도시는 바로 전의 입력이 부모도시가 된다.
+```
+
 **참조** 
 - [영우와 '갓4'](https://onsil-thegreenhouse.github.io/programming/problem/2018/03/29/problem_math_power/)
